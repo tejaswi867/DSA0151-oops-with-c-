@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+int num1=70;
+float num2=30.1;
+double num3=256.783;
+char ch='A';
+cout<<num1<<endl;
+cout<<num2<<endl;
+cout<<num3<<endl;
+cout<<ch<<endl;
+}
