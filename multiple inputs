@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+	char ch;
+	int num;
+	cout<<"enter a character:";
+	cin>>ch;
+	cout<<"character:"<<ch<<endl;
+	cout<<"enter a number:";
+	cin>>num;
+	cout<<"number:"<<num<<endl;
+}
