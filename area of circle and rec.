@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int length=25,breadth=10,radius=5,area1,area2;
+	double pi=3.14;
+	area1=length*breadth;
+	cout<<"area of rectangle:"<<area1<<endl;
+	area2=pi*radius*radius;
+	cout<<"area of circle:"<<area2<<endl;
+	return 0;
+
+}
